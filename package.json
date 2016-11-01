@@ -1,0 +1,23 @@
+{
+  "name": "alexabot",
+  "version": "1.0.0",
+  "description": "Server for alexa apps",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpraksti1/alexa-server1.git"
+  },
+  "author": "Mike Praksti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpraksti1/alexa-server1/issues"
+  },
+  "homepage": "https://github.com/mpraksti1/alexa-server1#readme"
+}
